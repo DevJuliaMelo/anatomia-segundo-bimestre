@@ -1,0 +1,11 @@
+# PDFs das aulas (material da professora) ficam fora do repositório
+*.pdf
+
+# Python
+__pycache__/
+*.pyc
+
+# Sistema
+.DS_Store
+Thumbs.db
+desktop.ini
