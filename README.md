@@ -8,7 +8,7 @@ sistemas cardiovascular, respiratório, digestório, urinário, endócrino e ner
 **No computador:** baixe a pasta e abra o `index.html` no navegador. Não precisa instalar nada.
 
 **Pelo link (GitHub Pages):** no repositório, vá em *Settings → Pages → Branch: main / (root) → Save*.
-Em 1 ou 2 minutos o site fica disponível em `https://SEU-USUARIO.github.io/NOME-DO-REPO/` e funciona também no celular.
+Em 1 ou 2 minutos o site fica disponível em **https://devjuliamelo.github.io/anatomia-segundo-bimestre/** e funciona também no celular.
 
 ## Modos
 
